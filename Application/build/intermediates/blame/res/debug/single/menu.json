@@ -2,9 +2,5 @@
     {
         "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/menu/navigation_drawer.xml",
         "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/res/menu/navigation_drawer.xml"
-    },
-    {
-        "merged": "/Users/appcreate35/AndroidStudioProjects/android-NavigationDrawer/Application/build/intermediates/res/merged/debug/menu/navigation_drawer.xml",
-        "source": "/Users/appcreate35/AndroidStudioProjects/android-NavigationDrawer/Application/src/main/res/menu/navigation_drawer.xml"
     }
 ]
