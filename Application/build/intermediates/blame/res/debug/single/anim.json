@@ -8,8 +8,16 @@
         "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/anim/abc_slide_in_top.xml"
     },
     {
+        "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/res/anim/slide_out_left.xml"
+    },
+    {
         "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/res/anim/slide_in_right.xml"
     },
     {
         "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
@@ -32,8 +40,16 @@
         "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/anim/abc_fade_out.xml"
     },
     {
+        "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/anim/zoom_exit.xml",
+        "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/res/anim/zoom_exit.xml"
+    },
+    {
         "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/anim/zoom_enter.xml",
+        "source": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/res/anim/zoom_enter.xml"
     },
     {
         "merged": "/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
