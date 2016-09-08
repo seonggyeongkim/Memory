@@ -36,6 +36,9 @@ public class PlanetAdapter extends RecyclerView.Adapter<PlanetAdapter.ViewHolder
      */
     public interface OnItemClickListener {
         public void onClick(View view, int position);
+
+        public interface Oncreate {
+        }
     }
 
     /**

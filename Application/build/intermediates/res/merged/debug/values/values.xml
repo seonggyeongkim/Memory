@@ -253,7 +253,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_websearch">Web search</string>
-    <string name="app_name">Navigation Drawer</string>
+    <string name="app_name">We Love Neo!</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
@@ -261,15 +261,19 @@
         
         
             
-             This example illustrates a common usage of the DrawerLayout widget in the Android
-             support library.
+                Neo! 우리의 친구!!^^ 네오양~!! 너를 위해 준비해 보았징~~! 03&lt;! 러브러브!!
             
         
         
     </string>
+    <string name="menu_share">Share</string>
     <string name="navigationdraweractivity_description">This example illustrates a common usage of the DrawerLayout widget in the Android
             support library.</string>
     <string name="navigationdraweractivity_title">Navigation Drawer Example</string>
+    <string name="quote_1">네오의 일상~! >3o* </string>
+    <string name="quote_2">사랑 스러운 neo~~!! *^^*</string>
+    <string name="quote_3">neo~! neo~! 039! </string>
+    <string name="quote_4">네오와의 추억~>3o!! </string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
@@ -1668,5 +1672,11 @@
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:lineSpacingMultiplier">1.1</item>
         <item name="android:textColor">@color/black_54</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
     </style>
 </resources>
