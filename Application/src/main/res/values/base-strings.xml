@@ -16,13 +16,12 @@
 -->
 
 <resources>
-    <string name="app_name">Navigation Drawer</string>
+    <string name="app_name">We Love Neo!</string>
     <string name="intro_message">
         <![CDATA[
         
             
-             This example illustrates a common usage of the DrawerLayout widget in the Android
-             support library.
+                Neo! 우리의 친구!!^^ 네오양~!! 너를 위해 준비해 보았징~~! 03<! 러브러브!!
             
         
         ]]>
