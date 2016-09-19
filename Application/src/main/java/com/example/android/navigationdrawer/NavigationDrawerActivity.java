@@ -237,28 +237,31 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            View rootView=null;
+            View rootView = null;
             int i = getArguments().getInt(ARG_PLANET_NUMBER);
-            String planet = getResources().getStringArray(R.array.planets_array)[i];
-            int imageId=0;
-            ImageView iv=null;
-            if(i==0) {
+            if(i==0){
                 rootView = inflater.inflate(R.layout.fragment_family, container, false);
-
+                iv = ((ImageView) rootView.findViewById(R.id.img_fmaily01));
             }
-                if(i==1) {
-                    rootView = inflater.inflate(R.layout.fragment_friends, container, false);
-
-                }if(i==2) {
+            if(i==1){
+                rootView = inflater.inflate(R.layout.fragment_friends, container, false);
+                iv = ((ImageView) rootView.findViewById(R.id.img_friends08));
+            }
+            if(i==2){
                 rootView = inflater.inflate(R.layout.fragment_teacher, container, false);
-
+                iv = ((ImageView) rootView.findViewById(R.id.img_teacher01));
             }
-            iv=((ImageView) rootView.findViewById(R.id.img_friends07));
+//            iv = ((ImageView) rootView.findViewById(R.id.ifnt));
             iv.setOnClickListener(m_nda);
-            iv.setImageResource(imageId);
-
-
-            getActivity().setTitle(planet);
+//            iv.setImageResource(R.drawable.ifnt);
+//            String planet = getResources().getStringArray(R.array.planets_array)[i];
+//
+//            int imageId = getResources().getIdentifier(planet.toLowerCase(Locale.getDefault()),
+//                    "drawable", getActivity().getPackageName());
+//            ImageView iv = ((ImageView) rootView.findViewById(R.id.ifnt));
+//            iv.setImageResource(imageId);
+//
+//            getActivity().setTitle(planet);
             return rootView;
         }
     }

@@ -54,6 +54,22 @@
             android:src="@drawable/friends06"
             />
 
+        <ImageView
+            android:id="@+id/img_friends07"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/friends07"
+            />
+
+        <ImageView
+            android:id="@+id/img_friends08"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/friends08"
+            />
+
 </GridLayout>
 
 

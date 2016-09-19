@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:17:1-46:12
+ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:17:1-47:12
 	package
 		ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:18:5-51
 	android:versionName
@@ -14,7 +14,7 @@ ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/
 	xmlns:android
 		ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:17:11-69
 application
-ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:24:5-44:19
+ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:24:5-45:19
 MERGED from [com.android.support:support-v13:24.0.0] /Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
@@ -61,7 +61,9 @@ ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/
 	android:name
 		ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:40:13-53
 activity#com.example.android.navigationdrawer.ViewPagerActivity
-ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:43:9-64
+ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:43:9-44:63
+	android:theme
+		ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:44:13-51
 	android:name
 		ADDED from /Users/appcreate35/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:43:19-52
 uses-sdk

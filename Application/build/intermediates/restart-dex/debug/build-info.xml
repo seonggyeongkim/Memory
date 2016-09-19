@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="armeabi-v7a"
     api-level="21"
-    density="xhdpi"
+    density="xxhdpi"
     format="7"
-    timestamp="8759097007818"
+    timestamp="6482130238830"
     token="-1196336074891774108" >
 
     <task
         name="javac"
-        duration="435" />
+        duration="412" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="13" />
+        duration="338" />
     <task
         name="verifier"
-        duration="10" />
+        duration="153" />
 
     <artifact
-        location="/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
+        location="/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="8575088772690" >
+    <build timestamp="6482130238830" >
         <artifact
             location="/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="8759097007818" >
-        <artifact
-            location="/Users/appcreate35/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
